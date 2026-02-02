@@ -1,4 +1,4 @@
-# Global-Energy-Trends-A-Comprehensive-Analysis-of-Key-Regions-and-Generation-Modes-Using-Power-BI
+# Global Energy Trends A Comprehensive Analysis of Key Regions and Generation Modes Using Power-BI
 🌍 Global Energy Trends Analysis Using Power BI
 
 A comprehensive data analytics project that explores global energy consumption and power generation trends across countries, continents, and energy sources using Power BI dashboards.
